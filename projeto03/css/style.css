@@ -1,0 +1,21 @@
+:root{
+    --gray: #5e5e5ee1;
+    --grey:#686868;
+    --grey: #b8b8b8;
+    --black:#000;
+}
+.container{
+    border: 2px solid var(--black);
+    width: 460px;
+    background-color: var(--grey);
+}
+nav{
+    background-color: var(--gray);
+}
+.navlink{
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    color: rgb(52, 52, 52);
+}
